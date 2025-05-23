@@ -3,7 +3,7 @@
 **Web Engineer | Fullstack Developer**  
 📍 Palembang, Indonesia  
 📧 randijulio13@gmail.com
-
+🌐 randijulio13.github.io
 ---
 
 ## 👋 About Me
