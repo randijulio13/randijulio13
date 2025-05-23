@@ -2,72 +2,81 @@
 
 **Web Engineer | Fullstack Developer**  
 📍 Palembang, Indonesia  
-📧 randijulio13@gmail.com 
-🌐 https://randijulio13.github.io
+📧 randijulio13@gmail.com  
+🌐 [randijulio13.github.io](https://randijulio13.github.io)
 
 ---
 
 ## 👋 About Me
 
-Versatile Web Engineer with a strong background in fullstack web development, system integration, and infrastructure observability. Proficient in building robust backend services and crafting user-centric frontend interfaces using modern frameworks. Adept in translating business requirements into scalable architecture and collaborating across teams to deliver secure, high-performance web applications.
+I’m a versatile Web Engineer with solid experience in fullstack web development, system integration, and infrastructure observability. My professional background includes building scalable web applications, developing reusable frontend components, designing RESTful APIs, and implementing real-time monitoring solutions.
+
+I’ve worked in agile teams to deliver products for various industries including internal dashboards, property management, identity verification, and warehouse automation. My focus is clean architecture, performance, and long-term maintainability.
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack & Tools
 
-**Backend:** Laravel, Express.js (Node.js), REST API, JWT, Queue Workers  
-**Frontend:** React.js, Vue.js, Next.js, Nuxt.js, Ant Design, Material UI, ShadCN, Bootstrap, TailwindCSS  
-**Databases & Storage:** MySQL, MariaDB, PostgreSQL, Redis, MinIO (S3-compatible)  
-**Monitoring & DevOps:** Grafana Stack (Alloy, Loki), Wazuh Stack, Prometheus, Docker, Git
+### 🔙 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="20" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="20" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="20" alt="PostgreSQL"/>
+</p>
 
----
-
-## 🎓 Education
-
-**State Polytechnic of Sriwijaya**  
-Informatics Management (2017 – 2020)  
-Palembang, Indonesia
+- Laravel, Express.js (Node.js)  
+- REST API, JWT, Queue Workers  
 
 ---
 
-## 💼 Work Experience
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="20" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="20" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="20" alt="TailwindCSS"/>
+</p>
 
-### 🟠 Frontend — OXY Creative  
-**South Jakarta, Indonesia**  
-🗓️ Sep 2024 – Present  
-Led frontend development for Boyer Inc., creating an inventory management system with Next.js. Designed infrastructure observability using Grafana, Alloy, Loki, and Wazuh Stack in Dockerized environments.
-
----
-
-### 🟢 Fullstack Developer — PT. Immobi Solusi Prima  
-**South Jakarta, Indonesia**  
-🗓️ Mar 2024 – Jun 2025  
-Developed frontend for Telkomsel’s AVP dashboard container using Next.js and Ant Design. Implemented reusable components and collaborated on UI/UX to enable SSO, access control, and dynamic dashboard visibility.
+- React.js, Vue.js, Next.js, Nuxt.js  
+- Ant Design, Material UI, ShadCN, Bootstrap, TailwindCSS  
 
 ---
 
-### 🔵 Web Developer — PT. Trisan Esa Cipta  
-**Palembang, Indonesia**  
-🗓️ Mar 2024 – Apr 2025  
-Built a residential property management system automating workflows from housing catalog to construction and sales. Developed modules for payment scheduling, inventory tracking, and procurement.
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="20" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" height="20" alt="Redis"/>
+</p>
+
+- MySQL, MariaDB, PostgreSQL  
+- Redis, MinIO (S3-compatible)  
 
 ---
 
-### 🟣 Web Engineer — OXY Creative  
-**South Jakarta, Indonesia**  
-🗓️ Feb 2022 – Mar 2024  
-Developed identity verification and onboarding systems (NeoDigi, Seken) with Dukcapil and BI integrations. Built microservice-based data cleansing systems with RabbitMQ handling millions of records.
+### ⚙️ Monitoring & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="20" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="20" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="20" alt="Git"/>
+</p>
+
+- Grafana Stack (Alloy, Loki), Prometheus  
+- Wazuh Stack, Uptime Kuma  
+- Docker, Git  
 
 ---
 
-### 🟡 Fullstack Developer — PT. Hedo Global Technology  
-**Palembang, Indonesia**  
-🗓️ Feb 2021 – Feb 2022  
-Created and maintained warehouse inventory systems with e-commerce integration. Contributed to backend performance optimization and legacy system refactoring.
+## 🧑‍💻 Experience Summary
+
+Over the years, I’ve contributed to projects across industries including telecommunications, logistics, real estate, and digital onboarding. My role often involves bridging backend logic and frontend UI, ensuring both function and usability. I’m comfortable working on greenfield systems as well as improving legacy codebases, always focusing on clean architecture, scalability, and developer experience.
 
 ---
 
 ## 📫 Contact
 
-- Email: [randijulio13@gmail.com](mailto:randijulio13@gmail.com)
-
+- Website: [randijulio13.github.io](https://randijulio13.github.io)  
+- Email: [randijulio13@gmail.com](mailto:randijulio13@gmail.com)  
+- GitHub: [github.com/your-username](https://github.com/your-username) <!-- Ganti dengan username GitHub kamu -->
